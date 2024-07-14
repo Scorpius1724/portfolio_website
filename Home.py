@@ -10,7 +10,7 @@ with col1:
 with col2:
     st.title("Swapnil Acharjee")
     content = ("""
-    Greetings! I am Swapnil Acharjee. I am an engineering student, pursuing a B.Tech degree Computer Science and Engineering (CSE).
+    Greetings! I am Swapnil Acharjee. I am an engineering student, pursuing a B.Tech degree in Computer Science and Engineering (CSE).
     I am also a Python programmer. I've made this website as my portfolio.
     It showcases some of the projects that I've made using Python or other programming languages, along with their source codes.
     This website itself is also made entirely using Python and is one of my projects.
