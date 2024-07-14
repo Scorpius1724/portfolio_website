@@ -1,0 +1,9 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/Scorpius1724/to-do-web-app;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/Scorpius1724/Portfolio-website;2.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/Scorpius1724/pdf-generation;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Scorpius1724/invoice-generation;4.png
+News through email;A script that gets data from a news API on any specific topic and sends them through email;https://github.com/Scorpius1724/Email_news;5.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various european cities.;https://github.com/Scorpius1724/Weather_API;6.png
+NASA's APOD;A web application displaying astronomical picture of the day using the NASA API;https://github.com/Scorpius1724/Astronomical_image_of_the_day;7.png
+Weather Forecast;A web application showing real time weather forecast for any city across the world;https://github.com/Scorpius1724/weather_forecast;8.png
